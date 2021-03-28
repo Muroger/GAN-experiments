@@ -1,0 +1,4 @@
+anime_faces/
+*.ckpt
+*.avi
+.ipynb_checkpoints
